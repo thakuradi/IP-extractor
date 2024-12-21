@@ -13,9 +13,9 @@
   "author": "MIT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thakuradi/IP_EXTRACTOR/issues"
+    "url": "https://github.com/thakuradi/IP-extractor.git"
   },
-  "homepage": "https://github.com/thakuradi/IP_EXTRACTOR#readme",
+  "homepage": "https://github.com/thakuradi/IP-extractor.git#readme",
   "dependencies": {
     "express": "^4.21.2"
   }
