@@ -1,0 +1,22 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "extracting ip address",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakuradi/IP_EXTRACTOR.git"
+  },
+  "author": "MIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thakuradi/IP_EXTRACTOR/issues"
+  },
+  "homepage": "https://github.com/thakuradi/IP_EXTRACTOR#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
